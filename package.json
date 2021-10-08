@@ -1,0 +1,11 @@
+{
+  "name": "w0202",
+  "version": "1.0.0",
+  "description": "",
+  "main": "020201.js",
+  "scripts": {
+    "start": "node 020201.js",
+  },
+  "author": "",
+  "license": "ISC"
+}
